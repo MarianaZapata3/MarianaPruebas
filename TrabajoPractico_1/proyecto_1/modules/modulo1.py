@@ -11,7 +11,7 @@ lista.append(4)
 
 
 
-#Prueba
+#Prueba TP1 ACT1
 import random
 import time
 import matplotlib.pyplot as plt
