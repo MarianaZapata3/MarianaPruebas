@@ -9,8 +9,6 @@ lista = [5,"nani","sustituto",10]
 print(lista)
 lista.append(4)
 
-
-
 #Prueba TP1 ACT1
 import random
 import time
