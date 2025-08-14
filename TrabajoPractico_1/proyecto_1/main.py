@@ -8,4 +8,5 @@ A=[lista]*5
 print(A)
 lista[1]="mariana"
 print(A)
-
+lista.append(11)
+print(lista)
